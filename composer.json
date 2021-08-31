@@ -1,5 +1,4 @@
 {
-    // "name": "bitfumes/contact",
     "name": "testdev/contact",
     "description": "This will send email to admin and save contact query in database",
     "type": "library",
